@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color: #000;
+}
+
+#ayuda{
+    font-size: 25px;
+}
